@@ -41,4 +41,7 @@ import random
 print(random.random())
 print(random.randrange(1,25))
 
-
+print(10>2)
+print(bool("Hello"))
+print(bool(0))
+print("Hello" in "hello World")
